@@ -12,7 +12,7 @@ TMP_DIR = Path("./tmp/")
 TMP_DIR.mkdir(exist_ok=True)
 DATA_DIR = Path("./data/")
 DATA_DIR.mkdir(exist_ok=True)
-logger = logging.getLogger("thptqg.regions.tay_ninh")
+logger = logging.getLogger("thptqg.regions.hanoi")
 
 
 def ocr_captcha(ocr: PaddleOCR, session: Session) -> str:
