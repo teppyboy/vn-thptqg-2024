@@ -10,7 +10,7 @@ python = "^3.12"
 paddlepaddle-gpu = "^2.6.1"
 paddleocr = "^2.8.0"
 setuptools = "^70.3.0"
-requests = "^2.32.3"
+requests = "^2.32.4"
 
 
 [build-system]
