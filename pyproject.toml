@@ -6,7 +6,7 @@ authors = ["Nguyễn Thế Hưng <tretrauit@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 paddlepaddle-gpu = "^2.6.1"
 paddleocr = "^2.8.0"
 setuptools = "^70.3.0"
